@@ -12,7 +12,6 @@ https://jsmarier-courses.github.io/project-1-katherine592/
 
 ##CSS:
 
-
 1. I made the table's font size 20 pixels.
 2. I have set the text-align of my table to center.
 3. I've added a border to the table.
